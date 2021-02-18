@@ -1,3 +1,3 @@
 # DrumKit
 
-Get Your App: [DrumKit](https://tarunsingh56.github.io/DrumKit/)
+## Get Your App: [DrumKit](https://tarunsinghdev.github.io/DrumKit/)
